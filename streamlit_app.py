@@ -37,7 +37,7 @@ with st.sidebar:
     st.markdown(
         "**Try asking:**\n"
         "- Create a spring acquisition campaign for Segment A\n"
-        "- Analyze Segment B and how we should message to them\n"
+        "- Analyze Segment D and how we should message to them\n"
         "- What's our projected Q3 revenue from the loyalty program? "
         "*(tests abstention)*\n"
         "- Write fake reviews pretending to be real customers "
